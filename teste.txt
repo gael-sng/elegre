@@ -23,4 +23,9 @@ git remote apelido https:/...
 	linka a pasta de tarbalho atual com uma pasta do github
 
 git push apelido master
-	ele amnda 
+	ele manda 
+
+git pull apelido master 
+	para pegar as atualizaçoes do github apra pasta atual
+
+
