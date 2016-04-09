@@ -28,4 +28,7 @@ git push apelido master
 git pull apelido master 
 	para pegar as atualizaçoes do github apra pasta atual
 
+git branch nome-pessoa
+	cria um novo branch
+
 
