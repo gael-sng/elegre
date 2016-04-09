@@ -20,7 +20,7 @@ git show rash
 	mostra as modificaçoes do commit passado pelo hash
 
 git remote apelido https:/...
-	ele epga um diretorio que existe no github e coloca todos os commit feitas até agora
+	linka a pasta de tarbalho atual com uma pasta do github
 
 git push apelido master
-	 
+	ele amnda 
