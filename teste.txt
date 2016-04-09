@@ -1,1 +1,26 @@
 testando arquivo muito doido 
+
+
+git add arquivo.hue
+	adiciona oa rquivo ao conjunto de commit
+
+git status
+	msotra os status
+
+git commit
+	abre o vim e escreve o comentario do commit o que ele alterou e perta Esc e digita :wq para sair do vim e slavar e temrianr o comit
+
+git log
+	aparece todas os commit e suas hash table
+
+git revert rash
+	ele faz o contrario do commit passado pleo hash
+
+git show rash
+	mostra as modificaçoes do commit passado pelo hash
+
+git remote apelido https:/...
+	ele epga um diretorio que existe no github e coloca todos os commit feitas até agora
+
+git push apelido master
+	 
