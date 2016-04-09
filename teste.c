@@ -7,10 +7,8 @@ int main (int argc, char const *argv[]){
 	
 	int i;
 	for(i=0;i< argc ;i++){
-		printf("%d : %s\n", i, argv[i]);
+		printf("parametro %d : %s\n", i, argv[i]);
 	}
-
-	printf("olaaa\n");
 
 	return 0;
 }
